@@ -2,6 +2,11 @@ import os
 from moviepy import *
 from time import sleep
 
+#################################################################################
+#                        Created by: nobody3132 aka luxe0x64                    #
+#                             Created on: 14.02.2025                            #
+#                              Happy Vilentine's day                            #
+#################################################################################
 class Convert:
     def __init__(self):
         self.name_of_file_to_convert = None
